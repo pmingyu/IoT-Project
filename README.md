@@ -1,7 +1,7 @@
 # **선박안전운항을 위한 데이터 기반 메인엔진 이상치 모니터링 대시보드**
 
 ## 2022년 4학년 2학기 IoT 수업 최종 프로젝트 제출물
-
+### **시연은 대시보드데모영상.zip 확인**
 ![img1](https://user-images.githubusercontent.com/93179525/220546741-bbdf6626-8f57-442a-bc5f-e69032cdb42d.png)
 ![img2](https://user-images.githubusercontent.com/93179525/220546815-fcd6339d-9ea8-4fab-b589-fe64a6407bc6.png)
 ![img3](https://user-images.githubusercontent.com/93179525/220546840-537f2e78-2f45-47d2-b1e3-780065b4d532.png)
